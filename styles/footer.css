@@ -1,0 +1,10 @@
+@media screen and (min-width: 1024px){
+    footer{
+        position: absolute;
+        top: 90%;
+    }
+
+    .footer__challenge{
+        margin-top: 0;
+    }
+}
